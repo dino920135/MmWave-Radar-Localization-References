@@ -1,0 +1,23 @@
+name: Latest logseq post workflow
+on:
+  push:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-notes:
+    name: Update this repo's README with logseq notes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: get current dir
+        run: echo "$PWD"
+      - name: get list
+        run: sh .github/workflows/GetLogseqMd.sh
+      - uses: EndBug/add-and-commit@v7
+        with:
+          message: "Update readme with Github Action"
+          default_author: github_actions
+          branch: main
