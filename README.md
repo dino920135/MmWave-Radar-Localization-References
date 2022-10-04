@@ -6,6 +6,8 @@
 	  id:: 63223bbc-5202-4edb-911f-8de859445cd3
 	- [(2022) Review on Millimeter-Wave Radar and Camera Fusion Technology](https://creativecommons.org/licenses/by/4.0/), Zhou Y, Dong Y, Hou F et al.
 	  id:: 63223bf7-9fa1-4a42-b220-6cccfd24ee40
+- ## Radar/INS
+	- [(2022) RADAR/INS INTEGRATION FOR POSE ESTIMATION IN GNSS-DENIED ENVIRONMENTS](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/137/2022/isprs-archives-XLIII-B1-2022-137-2022.pdf), Elkholy M, Elsheikh M, El-Sheimy N
 - ## Radar SLAM
 	- [(2021) 3D ego-Motion Estimation Using low-Cost mmWave Radars via Radar Velocity Factor for Pose-Graph SLAM](https://ieeexplore.ieee.org/abstract/document/9495184), Park Y, Shin Y, Kim J et al.
 	- [(2020) RadarSLAM: Radar based Large-Scale SLAM in All Weathers](https://ieeexplore.ieee.org/abstract/document/9341287), Hong Z, Petillot Y, Wang S
