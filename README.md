@@ -6,7 +6,7 @@
 	  id:: 63223bbc-5202-4edb-911f-8de859445cd3
 	- [(2022) Review on Millimeter-Wave Radar and Camera Fusion Technology](https://creativecommons.org/licenses/by/4.0/), Zhou Y, Dong Y, Hou F et al.
 	  id:: 63223bf7-9fa1-4a42-b220-6cccfd24ee40
-- ## Radar/INS
+- ## Radar and INS
 	- [(2022) RADAR/INS INTEGRATION FOR POSE ESTIMATION IN GNSS-DENIED ENVIRONMENTS](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/137/2022/isprs-archives-XLIII-B1-2022-137-2022.pdf), Elkholy M, Elsheikh M, El-Sheimy N.
 - ## Radar and Lidar Map
 	- [(2022) LiDAR-and Radar-Based Robust Vehicle Localization with Confidence Estimation of Matching Results](https://www.mdpi.com/1424-8220/22/9/3545/htm), Yanase R, Hirano D, Aldibaja M et al.
