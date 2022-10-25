@@ -1,3 +1,4 @@
+- #research #mmwave #radar #localization #paper #reference
 - # MmWave-Radar-Localization-References
 - ## Papers
 	- ![image.png](https://github.com/dino920135/Notes/blob/main/assets/image_1663203277420_0.png)
@@ -12,14 +13,17 @@
 	- ### Radar and Lidar Map
 		- [(2022) LiDAR-and Radar-Based Robust Vehicle Localization with Confidence Estimation of Matching Results](https://www.mdpi.com/1424-8220/22/9/3545/htm), Yanase R, Hirano D, Aldibaja M et al.
 	- ### Radar SLAM
+	  #slam
 		- [(2021) 3D ego-Motion Estimation Using low-Cost mmWave Radars via Radar Velocity Factor for Pose-Graph SLAM](https://ieeexplore.ieee.org/abstract/document/9495184), Park Y, Shin Y, Kim J et al.
 		- [(2020) RadarSLAM: Radar based Large-Scale SLAM in All Weathers](https://ieeexplore.ieee.org/abstract/document/9341287), Hong Z, Petillot Y, Wang S
 	- ### Mapping
 		- [(2022) High Resolution Point Clouds from mmWave Radar](https://arxiv.org/abs/2206.09273), Prabhakara A, Jin T, Das A et al.
 		- [(2020) 3D Point Cloud Generation with Millimeter-Wave Radar](https://doi.org/10.1145/3432221), Qian K, He Z, Zhang X
 		- [(2020) The Millimeter-Wave Radar SLAM Assisted by the RCS Feature of the Target and IMU](https://www.mdpi.com/1424-8220/20/18/5421), Li Y, Liu Y, Wang Y et al.
-		- [(2018) Vehicle Localization using 76GHz Omnidirectional Millimeter-Wave Radar for Winter Automated Driving](https://ieeexplore.ieee.org/abstract/document/8500378), Yoneda K, Hashimoto N, Yanase R et al. #uncertainty #error-propagation
+		- [(2018) Vehicle Localization using 76GHz Omnidirectional Millimeter-Wave Radar for Winter Automated Driving](https://ieeexplore.ieee.org/abstract/document/8500378), Yoneda K, Hashimoto N, Yanase R et al.
+		  #uncertainty #error-propagation
 	- ### Fuse with Camera
+	  #image #camera
 		- [(2022) MmWave Radar and Vision Fusion for Object Detection in Autonomous Driving: A Review](https://doi.org/10.3390/s22072542), Wei Z, Zhang F, Chang S et al.
 		- [(2022) Review on Millimeter-Wave Radar and Camera Fusion Technology](https://www.mdpi.com/2071-1050/14/9/5114), Zhou Y, Dong Y, Hou F et al.
 		- [(2022) A Train Positioning Method Based-On Vision and Millimeter-Wave Radar Data Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9346048), Wang Z, Yu G, Zhou B et al.
